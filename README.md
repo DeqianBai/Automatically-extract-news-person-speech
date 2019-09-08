@@ -1,5 +1,10 @@
 # 新闻言论观点提取
 
+
+ 输入: 一段新闻文本(Text)
+
+ 输出: 文中每个人物/实体的观点(List)
+
 ## 1. Getting Started
 
 ### Prerequisites
