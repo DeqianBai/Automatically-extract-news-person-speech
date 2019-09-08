@@ -44,6 +44,7 @@
        $ hanlp
 
        详情参考：https://github.com/hankcs/pyhanlp/wiki/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE
+-  如果报错，可以[参考这里](https://www.jianshu.com/writer#/notebooks/35711942/notes/53734788/preview)
 
 5. 下载模型文件放在项目根目录下
 
@@ -84,4 +85,13 @@ api command
         
 ## Acknowledgments
 ---
+
+- flask文档：https://dormousehole.readthedocs.io/en/latest/
+- pyhanlp：https://github.com/hankcs/pyhanlp
+- hanlp在线演示：http://hanlp.com/
+- 普林斯顿句子向量论文：https://openreview.net/forum?id=SyK00v5xx
+- 论文代码：https://github.com/PrincetonML/SIF
+- 论文解读：https://blog.csdn.net/sinat_31188625/article/details/72677088#commentsedit
+- 解读代码：https://github.com/jx00109/sentence2vec/blob/master/s2v-python3.py
+- 云浮科技句法分析：https://www.yunfutech.com/demo?tab=1
 
