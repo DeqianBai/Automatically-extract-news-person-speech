@@ -17,13 +17,13 @@
 
 -  linux系统运行
 
-      $ python3 -m venv venv
-      $ . venv/bin/activate
+       $ python3 -m venv venv
+       $ . venv/bin/activate
 
 -  Windows系统运行cmd
 
-      $ py -3 -m venv venv
-      $ venv\Scripts\activate.bat
+       $ py -3 -m venv venv
+       $ venv\Scripts\activate.bat
 
 3. 安装项目:
 
@@ -41,9 +41,9 @@
 
 -  在终端执行如下命令进行测试，查看pyhanlp是否安装成功
 
-      $ hanlp
+       $ hanlp
 
-      详情参考：https://github.com/hankcs/pyhanlp/wiki/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE
+       详情参考：https://github.com/hankcs/pyhanlp/wiki/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE
 
 5. 下载模型文件放在项目根目录下
 
@@ -51,7 +51,7 @@
 
 -  解压文件:
 
-      $ unzip instance.zip
+       $ unzip instance.zip
 
 ## 2. Running 
 -------
