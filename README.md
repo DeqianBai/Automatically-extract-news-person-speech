@@ -15,12 +15,12 @@
 
 2. 创建虚拟环境并激活:
 
-- 2.1 linux系统运行
+-  linux系统运行
 
       $ python3 -m venv venv
       $ . venv/bin/activate
 
-- 2.2 Windows系统运行cmd
+-  Windows系统运行cmd
 
       $ py -3 -m venv venv
       $ venv\Scripts\activate.bat
@@ -31,13 +31,15 @@
 
 4. 下载pyhanlp需要的数据包
 
-- 4.1 下载 [data](http://nlp.hankcs.com/download.php?file=data)
+-  下载 [data](http://nlp.hankcs.com/download.php?file=data)
 
-- 4.2 下载 [jar与配置文件](http://nlp.hankcs.com/download.php?file=jar)
+-  下载 [jar与配置文件](http://nlp.hankcs.com/download.php?file=jar)
 
-- 4.3 将下载好的文件直接放在pyhanlp模块的static文件夹下：`StandpointExtract/venv/lib/python3.6/site-packages/pyhanlp/static/ `
+-  将下载好的文件直接放在`pyhanlp`模块的`static`文件夹下：
 
-- 4.4 在终端执行如下命令进行测试，查看pyhanlp是否安装成功
+      `StandpointExtract/venv/lib/python3.6/site-packages/pyhanlp/static/ `
+
+-  在终端执行如下命令进行测试，查看pyhanlp是否安装成功
 
       $ hanlp
 
@@ -45,9 +47,9 @@
 
 5. 下载模型文件放在项目根目录下
 
-- 5.1 下载模型：https://pan.baidu.com/s/1hE-p3YTMnxJebzthDNPJbw
+-  下载模型：https://pan.baidu.com/s/1hE-p3YTMnxJebzthDNPJbw
 
-- 5.2 解压文件:
+-  解压文件:
 
       $ unzip instance.zip
 
