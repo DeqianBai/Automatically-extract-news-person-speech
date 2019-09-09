@@ -89,8 +89,13 @@ api command
         sif-句子相似度
         rnn-是否是人说的话
         mix-两者综合，默认类型
-        
-## Acknowledgments
+
+## 3. Start from scratch
+
+如果想从零开始做一遍，你需要先参考[Get-Data-from-MySQL-and-Train-Word2Vec](https://github.com/DeqianBai/Get-Data-from-MySQL-and-Train-Word2Vec)训练词向量得到“说”的近义词
+
+
+## 4. Acknowledgments
 ---
 
 - flask文档：https://dormousehole.readthedocs.io/en/latest/
