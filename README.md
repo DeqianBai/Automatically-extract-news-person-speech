@@ -11,6 +11,13 @@
 
 ### Prerequisites
 
+    flask
+    pyhanlp
+    gensim
+    scikit-learn
+    numpy
+    jieba
+    mxnet
 
 ### Installing
 -------
