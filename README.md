@@ -58,7 +58,7 @@
        $ hanlp
 
        详情参考：https://github.com/hankcs/pyhanlp/wiki/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE
-   如果报错，可以[参考这里](https://www.jianshu.com/writer#/notebooks/35711942/notes/53734788/preview)
+   如果报错，可以[参考这里](https://www.jianshu.com/p/0b6e4ce40535)
 
 5. 下载模型文件放在项目根目录下
 
